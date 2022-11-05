@@ -123,14 +123,4 @@ footer p {
     footer img {
         display: flex;
         flex-direction: column;
-        align-items: center;
-        padding: 32px 0px;
-        gap: 64px;
-
-        position: absolute;
-        width: 375px;
-        height: 196px;
-        left: 0px;
-        top: 886px;
-    }
 }
