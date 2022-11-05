@@ -33,7 +33,7 @@ function Contact() {
                 <div className='terms'>
                     <input type="checkbox" name="check" id="check" />
                     <label>
-                        You agree to providing your data {name} who may contact you
+                        You agree to providing your data to {name} who may contact you
                     </label>
                 </div>
                 <button type='submit' id='btn__submit'> Send message</button>
