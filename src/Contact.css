@@ -123,4 +123,5 @@ footer p {
     footer img {
         display: flex;
         flex-direction: column;
+    }
 }
