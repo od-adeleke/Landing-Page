@@ -106,6 +106,10 @@ footer p {
         display: flex;
         flex-direction: column;
     }
+    
+    textarea {
+        height:
+    }
 
     .terms {
         margin-left: 0;
@@ -115,5 +119,9 @@ footer p {
         flex-direction: column;
         margin-top: 0;
         text-align: left;
+    }
+    
+    footer img {
+        justify-content:left;
     }
 }
