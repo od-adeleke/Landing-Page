@@ -2,4 +2,4 @@
 HNG Internship frontend exercise
 
 # View the site here
-https://my-landing-page-ff8g7407z-od-adeleke.vercel.app/
+https://my-landing-page-alpha.vercel.app/
