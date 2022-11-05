@@ -2,7 +2,7 @@ import './Contact.css'
 import React from 'react'
 
 function Contact() {
-    const name = 'Damilola Adeleke'
+    const name = 'Oluwadamilola Adeleke'
   return (
     <div className='contact'>
         <div className="container">
