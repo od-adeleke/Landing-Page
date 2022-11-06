@@ -1,8 +1,7 @@
 .App {
   text-align: center;
   width: 90vw;
-  margin: auto;
-  /* background-color: aqua; */
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -79,4 +78,33 @@ hr {
   margin-top: 2rem;
   width: 100vw;
   color: black;
+}
+
+footer {
+  display: flex;
+  /* text-align: center; */
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 2rem;
+  border-top: 1px solid black;
+  height: 5vh;
+  /* background-color: #000; */
+}
+
+footer img {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+
+@media screen and (max-width:600px) {
+  footer {
+    flex-direction: column;
+  }
+
+  footer >img {
+    color: #000;
+    margin: .25rem 0;
+  }
 }

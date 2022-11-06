@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import './App.css';
-import pix from './mine.jpg'
-import slack from './slack.svg'
-import github from './github.svg'
+import '../App.css';
+import pix from '../assets/mine.jpg'
+import slack from '../assets/slack.svg'
+import github from '../assets/github.svg'
 
 const NavBar = () => {
   return (
@@ -28,7 +28,7 @@ const NavBar = () => {
 
             <a href="https://books.zuri.team/design-rules" id='book_design'>Design Books</a>
             
-            <Link to="/Contact">Contact Me</Link>
+            <Link to="/Contact" id='contact'>Contact Me</Link>
             <div className='socials'>
               <a href="https://slack.com">
                 <img src={slack} alt="slack logo" />
