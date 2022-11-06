@@ -34,7 +34,7 @@ const NavBar = () => {
                 <img src={slack} alt="slack logo" />
               </a>
 
-              <a href="https://github.com">
+              <a href="https://github.com/od-adeleke/Landing-Page">
                 <img src={github} alt="github logo" />
               </a>
             </div>
