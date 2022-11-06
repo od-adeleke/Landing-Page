@@ -121,12 +121,20 @@ footer p {
 
     footer {
         flex-direction: column;
-        margin-top: 0;
+        margin: 3rem auto;
         text-align: left;
+        width: 80%;
+        height: 20vh;
+        gap: 0.2rem;
     }
     
     footer img {
-        display: flex;
-        flex-direction: column;
+        width: 40%;
+    }
+
+    footer p {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      width: fit-content;
     }
 }
