@@ -28,7 +28,7 @@ const NavBar = () => {
 
             <a href="https://books.zuri.team/design-rules" id='book_design'>Design Books</a>
             
-            <Link to="/Contact">Contact Me</Link>
+            <Link to="/Contact" id='contact'>Contact Me</Link>
             <div className='socials'>
               <a href="https://slack.com">
                 <img src={slack} alt="slack logo" />
