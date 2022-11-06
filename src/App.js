@@ -15,9 +15,6 @@ function App() {
         </Routes>
       </Router>
 
-      <div>
-        <hr />
-      </div>
       <footer>
         <img src={Zuri} alt="Zuri logo"/>
 
