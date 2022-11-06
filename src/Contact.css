@@ -56,10 +56,6 @@ input, textarea {
     /* margin-left: 5rem; */
 }
 
-.terms input {
-     border: 3px solid blue
-}
-
 .terms input:hover {
      background-color: light-blue;
 }
