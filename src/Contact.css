@@ -84,12 +84,13 @@ footer {
     text-align: center;
     justify-content: center;
     margin-top: 2rem;
+    border-top: 1px solid #eaecf0;
 }
 
-hr {
+/*hr {
     margin-top: 2rem;
     color: black;
-}
+} */
 
 footer img {
     display: flex;
